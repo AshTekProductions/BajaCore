@@ -13,5 +13,5 @@ Instead of rewriting boilerplate every time, I can clone this and start building
 * Basic game loop (update/render structure)
 * Example sprite loading to confirm everything works
 * Simple, clean project structure
-* Ready-to-use asset folders
+* Ready to use asset folders
 * Minimal and easy to expand
